@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27" started-at="2020-08-15T19:01:28Z" finished-at="2020-08-15T19:01:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27" started-at="2020-08-15T19:01:28Z" finished-at="2020-08-15T19:01:28Z">
+      <class name="annotations.Navin">
+        <test-method status="PASS" signature="navin()[pri:0, instance:annotations.Navin@7c0e2abd]" name="navin" is-config="true" duration-ms="5" started-at="2020-08-15T15:01:28Z" finished-at="2020-08-15T15:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navin -->
+        <test-method status="PASS" signature="manish()[pri:0, instance:annotations.Navin@7c0e2abd]" name="manish" duration-ms="6" started-at="2020-08-15T15:01:28Z" finished-at="2020-08-15T15:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manish -->
+        <test-method status="PASS" signature="suryanshu()[pri:0, instance:annotations.Navin@7c0e2abd]" name="suryanshu" is-config="true" duration-ms="1" started-at="2020-08-15T15:01:28Z" finished-at="2020-08-15T15:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suryanshu -->
+      </class> <!-- annotations.Navin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

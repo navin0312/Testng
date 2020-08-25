@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="annotations.CyclicDependencies"/>
+      <class name="test.TESTActimeLogin"/>
+      <class name="annotations.PriorityInvocationCount"/>
+      <class name="test.TESTActimeWork"/>
+      <class name="annotations.MultipleDependencies"/>
+      <class name="annotations.Navin"/>
+      <class name="annotations.Priority"/>
+      <class name="annotations.TestNGAnnotations"/>
+      <class name="annotations.InvocationCount"/>
+      <class name="annotations.MultipleTestMethod"/>
+      <class name="annotations.DependsOnMethods"/>
+      <class name="test.TESTActimeCustomer"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
